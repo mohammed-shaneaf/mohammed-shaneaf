@@ -1,35 +1,53 @@
-# 💻 محمد شنعيف | Flutter Developer  
+# Hi there! 👋 I'm Mohammad Shanaif
 
-Hi there! 👋 I’m a passionate Flutter Developer dedicated to building seamless, scalable, and user-friendly mobile applications. My focus lies in clean code architecture, intuitive UI/UX design, and leveraging modern tools to deliver high-quality solutions.  
+🚀 **Flutter Developer | UI Enthusiast | Problem Solver**
 
----
-
-## 🚀 **About Me**  
-- 🌟 **Skills:** Flutter, Dart, BLoC, Cubit, Provider, Firebase (Auth, Firestore), API integration  
-- 🛠️ **Tools I Use:** Git/GitHub, Postman, Figma, VS Code, Android Studio  
-- 📚 Always learning new concepts and keeping up with the latest trends in mobile development.  
+I specialize in building high-performance, scalable, and visually appealing mobile applications using Flutter. With a strong background in Object-Oriented Programming (OOP) and state management techniques like **BLoC (Cubit)**, I focus on writing clean, maintainable, and efficient code.
 
 ---
 
-## 🌟 **What I Do**  
-- 🧩 Develop cross-platform mobile applications using **Flutter**  
-- 🏗️ Design and implement scalable architectures (MVVM, state management)  
-- 🔧 Optimize app performance and ensure responsiveness  
-- 🌍 Work with APIs and backend solutions like Firebase  
+## 🔥 **What I Do**
+- 🌟 Develop cross-platform mobile applications with **Flutter**
+- 🎨 Implement smooth UI/UX experiences based on **Figma designs**
+- 📦 Manage app state effectively using **BLoC (Cubit)**
+- 🛠 Apply **SOLID principles** and **Design Patterns** for maintainable code
+- 📱 Optimize performance for a seamless user experience
 
 ---
 
-## 📈 **GitHub Stats**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## 📂 **Projects & Work**
+### 🚑 Doctor Consultant App *(In Progress)*
+A **fully functional** doctor appointment booking app with real-time updates and a modern UI.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🍔 Food Delivery App
+A sleek and intuitive food ordering app with an optimized UI and efficient state management.
+
+### 🎵 Music App *(Coming Soon)*
+An engaging music player app with **Onboarding Screens**, **Splash Screen**, and **smooth animations**.
 
 ---
 
-## 📫 **Connect With Me**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)  
-- 📝 [Medium](https://medium.com/@your-medium-username)  
+## 🛠 **Tech Stack**
+- **Flutter & Dart** 🏆
+- **State Management:** BLoC (Cubit), Provider
+- **Version Control:** Git & GitHub
+- **UI/UX Tools:** Figma, Adobe XD
+- **Database:** Hive, SQLite, Firebase Firestore
+- **RESTful APIs & JSON Handling**
+- **Animations & Custom UI Components**
 
 ---
 
-✨ _Let’s build something amazing together!_  
+## 📌 **What I'm Learning**
+- Advanced **Flutter animations & custom widgets**
+- Enhancing **problem-solving skills with Dart**
+- Deep diving into **Flutter's behind-the-scenes architecture**
+
+---
+
+## 📢 **Let's Connect!**
+🔗 **LinkedIn:** [[linkedin.com/in/mohammad-shanaif](#)  ](https://www.linkedin.com/in/mohammed-shaneaf/)
+📩 **Email:** [mohammad.shanaif@email.com](#)  
+📺 **YouTube:**[ [MK-Pro](#) *(Educational Flutter Content)*](https://www.youtube.com/@MK-Pro-wx3yl)
+
+💬 I'm always open to collaborating on exciting Flutter projects! Feel free to reach out. 🚀
