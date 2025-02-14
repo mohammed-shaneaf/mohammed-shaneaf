@@ -15,18 +15,6 @@ I specialize in building high-performance, scalable, and visually appealing mobi
 
 ---
 
-## 📂 **Projects & Work**
-### 🚑 Doctor Consultant App *(In Progress)*
-A **fully functional** doctor appointment booking app with real-time updates and a modern UI.
-
-### 🍔 Food Delivery App
-A sleek and intuitive food ordering app with an optimized UI and efficient state management.
-
-### 🎵 Music App *(Coming Soon)*
-An engaging music player app with **Onboarding Screens**, **Splash Screen**, and **smooth animations**.
-
----
-
 ## 🛠 **Tech Stack**
 - **Flutter & Dart** 🏆
 - **State Management:** BLoC (Cubit), Provider
@@ -45,9 +33,12 @@ An engaging music player app with **Onboarding Screens**, **Splash Screen**, and
 
 ---
 
-## 📢 **Let's Connect!**
-🔗 **LinkedIn:** [[linkedin.com/in/mohammad-shanaif](#)  ](https://www.linkedin.com/in/mohammed-shaneaf/)
-📩 **Email:** [mohammad.shanaif@email.com](#)  
-📺 **YouTube:**[ [MK-Pro](#) *(Educational Flutter Content)*](https://www.youtube.com/@MK-Pro-wx3yl)
+## 🔗 **Connect with Me**
+[![YouTube](https://img.shields.io/badge/YouTube-MK--Pro-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MK-Pro-wx3yl)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Shanaif-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-shaneaf/)
 
 💬 I'm always open to collaborating on exciting Flutter projects! Feel free to reach out. 🚀
+
+---
+
+
