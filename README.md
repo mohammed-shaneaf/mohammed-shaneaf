@@ -36,6 +36,8 @@ I specialize in building high-performance, scalable, and visually appealing mobi
 ## 🔗 **Connect with Me**
 [![YouTube](https://img.shields.io/badge/YouTube-MK--Pro-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@MK-Pro-wx3yl)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed%20Shanaif-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-shaneaf/)
+[![Gmail](https://img.shields.io/badge/Email-mohammedshaneaf@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedshaneaf@gmail.com)
+
 
 💬 I'm always open to collaborating on exciting Flutter projects! Feel free to reach out. 🚀
 
